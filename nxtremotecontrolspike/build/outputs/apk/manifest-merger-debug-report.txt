@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	package
+		ADDED from AndroidManifest.xml:3:7
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:5:7
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:7
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+	android:installLocation
+		ADDED from AndroidManifest.xml:6:7
+application
+ADDED from AndroidManifest.xml:7:5
+	android:label
+		ADDED from AndroidManifest.xml:7:48
+	android:icon
+		ADDED from AndroidManifest.xml:7:18
+activity#org.jfedor.nxtremotecontrol.NXTRemoteControl
+ADDED from AndroidManifest.xml:8:9
+	android:label
+		ADDED from AndroidManifest.xml:9:19
+	android:launchMode
+		ADDED from AndroidManifest.xml:10:19
+	android:configChanges
+		ADDED from AndroidManifest.xml:9:52
+	android:name
+		ADDED from AndroidManifest.xml:8:19
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:11:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:12:17
+	android:name
+		ADDED from AndroidManifest.xml:12:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:13:17
+	android:name
+		ADDED from AndroidManifest.xml:13:27
+activity#org.jfedor.nxtremotecontrol.ChooseDeviceActivity
+ADDED from AndroidManifest.xml:17:6
+	android:label
+		ADDED from AndroidManifest.xml:17:104
+	android:configChanges
+		ADDED from AndroidManifest.xml:17:53
+	android:theme
+		ADDED from AndroidManifest.xml:17:134
+	android:name
+		ADDED from AndroidManifest.xml:17:16
+activity#org.jfedor.nxtremotecontrol.SettingsActivity
+ADDED from AndroidManifest.xml:20:6
+	android:label
+		ADDED from AndroidManifest.xml:20:49
+	android:theme
+		ADDED from AndroidManifest.xml:20:74
+	android:name
+		ADDED from AndroidManifest.xml:20:16
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from AndroidManifest.xml:24:5
+	android:name
+		ADDED from AndroidManifest.xml:24:22
+uses-permission#android.permission.BLUETOOTH
+ADDED from AndroidManifest.xml:25:5
+	android:name
+		ADDED from AndroidManifest.xml:25:22
+uses-permission#android.permission.WAKE_LOCK
+ADDED from AndroidManifest.xml:26:5
+	android:name
+		ADDED from AndroidManifest.xml:26:22
+uses-sdk
+ADDED from AndroidManifest.xml:28:2
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:28:38
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:28:12
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
